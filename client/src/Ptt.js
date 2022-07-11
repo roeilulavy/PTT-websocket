@@ -6,8 +6,7 @@ import './Ptt.css';
 import Hold from './sounds/Hold.mp3';
 import Transmit from './sounds/transmit.mp3';
 
-// const socket = io('http://localhost:9000');
-const socket = io('http://192.168.50.219:9000');
+const socket = io('http://localhost:9000');
 
 const gainNode = Media.audioContext.createGain();
 const audioStreamer = new AudioStreamer(Audio, 1000);
