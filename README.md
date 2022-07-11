@@ -27,10 +27,10 @@ In the project directory, you can run:
 
 ### `npm start` on server folder:
 
-Runs the server in the development mode on port 9000.\
+Runs the server in the development mode on port 9000.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The server will reload when you make changes.
+You may also see any changes in the console.
 
 ### `npm start` on client folder:
 
